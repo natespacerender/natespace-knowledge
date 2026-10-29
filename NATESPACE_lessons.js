@@ -31,6 +31,7 @@
     },
 
     {
+      {
       title: "Какой нужен компьютер?",
       category: "3ds Max",
       type: "Видео",
@@ -38,8 +39,6 @@
       duration: "04:22",
       description: "Выбор комплектующих, системные требования и рекомендации по сборке ПК для работы в 3ds Max и Corona Renderer.",
       image: "https://optim.tildacdn.com/tila3033-3465-4565-b533-326138616662/-/format/webp/82932eb9-1501-469c-9.png.webp",
-      url: "/lesson_computer",
-      published: true
       url: "/lesson_computer",
       published: true,
 
