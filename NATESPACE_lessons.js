@@ -69,7 +69,7 @@
 
 {
   title: "Установка Corona Renderer",
-  category: "3ds Max",
+  category: "Corona",
   type: "Видео",
   level: "Начальный",
   duration: "",
