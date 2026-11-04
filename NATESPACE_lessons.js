@@ -77,7 +77,7 @@
   category: "Corona",
   type: "Видео",
   level: "Начальный",
-  duration: "",
+  duration: "02:54",
   description: "Установка Corona Renderer для 3ds Max, подключение рендер-движка и проверка первого рендера.",
   image: "https://optim.tildacdn.com/tila3134-6237-4164-a364-323861616538/-/format/webp/096dbc95-8b63-44cf-8.png.webp",
   url: "/lesson_install_corona",
@@ -88,7 +88,7 @@
 
     intro: "Устанавливаем Corona Renderer для 3ds Max, проверяем совместимость версий и подготавливаем программу к созданию фотореалистичных изображений.",
 
-    video: "",
+    video: "https://kinescope.io/q7YXN9W6bWrBzqBKUePE3Y",
 
     sections: [
       {
