@@ -23,7 +23,7 @@
   category: "3ds Max",
   type: "Видео",
   level: "Начальный",
-  duration: "",
+  duration: "02:40",
   description: "Пошаговая установка Autodesk 3ds Max, первоначальная настройка программы и подготовка к работе.",
   image: "https://optim.tildacdn.com/tila3036-3230-4466-a262-333134343764/-/format/webp/43bc0be5-76a1-41c8-8.jpg.webp",
   url: "/lesson_install_3dsmax",
@@ -34,7 +34,7 @@
 
     intro: "Разбираемся, как установить Autodesk 3ds Max, подготовить компьютер и выполнить первоначальную настройку программы для дальнейшего обучения.",
 
-    video: "",
+    video: "https://kinescope.io/pJqFBBS7pRJvc5FKVpWbCP",
 
     sections: [
       {
@@ -63,7 +63,12 @@
       }
     ],
 
-    resources: []
+    resources: [
+      {
+    title: "Скачать Autodesk 3ds Max",
+    url: "https://disk.yandex.ru/d/5-kf0IUFf8SdHw"
+  }
+    ]
   }
 },
 
@@ -113,7 +118,12 @@
       }
     ],
 
-    resources: []
+    resources: [
+      {
+    title: "Скачать Corona Renderer",
+    url: "https://disk.yandex.ru/d/xsUF1nwrkbKMEQ"
+  }
+    ]
   }
 },
     
