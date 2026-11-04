@@ -25,7 +25,7 @@
   level: "Начальный",
   duration: "",
   description: "Пошаговая установка Autodesk 3ds Max, первоначальная настройка программы и подготовка к работе.",
-  image: "",
+  image: "https://optim.tildacdn.com/tila3036-3230-4466-a262-333134343764/-/format/webp/43bc0be5-76a1-41c8-8.jpg.webp",
   url: "/lesson_install_3dsmax",
   published: true,
 
@@ -74,7 +74,7 @@
   level: "Начальный",
   duration: "",
   description: "Установка Corona Renderer для 3ds Max, подключение рендер-движка и проверка первого рендера.",
-  image: "",
+  image: "https://optim.tildacdn.com/tila3134-6237-4164-a364-323861616538/-/format/webp/096dbc95-8b63-44cf-8.png.webp",
   url: "/lesson_install_corona",
   published: true,
 
