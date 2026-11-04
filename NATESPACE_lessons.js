@@ -262,7 +262,20 @@
           }
         ],
 
-        resources: []
+        resources: [
+        {
+    title: "Файл для установки горячих клавиш .hsx",
+    url: "https://disk.yandex.ru/d/tberDYPPveAbYQ"
+  },
+        {
+    title: "Карта горячих клавиш .jpg",
+    url: "https://disk.yandex.ru/i/FKqJYI9T3Cs_UQ"
+  },
+        {
+    title: "Подсказка горячих клавиш .doc",
+    url: "https://disk.yandex.ru/i/k0JbYYVVY2do_Q"
+        }
+        ]
       }
     },
 
