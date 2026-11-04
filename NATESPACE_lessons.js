@@ -283,7 +283,7 @@
       description: "Создание стен по плану и настройка геометрии.",
       image: "https://optim.tildacdn.com/tila3531-3930-4832-a537-356434633966/-/format/webp/a209d93d-b2c7-4259-8.png.webp",
       url: "/lesson_walls",
-      published: true,
+      published: false,
 
       content: {
         categoryLabel: "3DS MAX / МОДЕЛИРОВАНИЕ / ВИДЕОУРОК",
@@ -338,7 +338,7 @@
       description: "Добавление готовых моделей в сцену, настройка масштаба и работа с объектами.",
       image: "https://optim.tildacdn.com/tila3561-6138-4634-b033-666331653939/-/format/webp/4dad5d47-461f-4302-9.png.webp",
       url: "/lesson_import_3d_models",
-      published: true,
+      published: false,
 
       content: {
         categoryLabel: "3DS MAX / РАБОТА СО СЦЕНОЙ / ВИДЕОУРОК",
