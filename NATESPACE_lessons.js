@@ -32,7 +32,7 @@
   content: {
     categoryLabel: "3DS MAX / УСТАНОВКА / ВИДЕОУРОК",
 
-    intro: "Разбираемся, как установить Autodesk 3ds Max, подготовить компьютер и выполнить первоначальную настройку программы для дальнейшего обучения.",
+    intro: "Разбираемся, как установить Autodesk 3ds Max и выполнить первоначальную настройку программы для дальнейшего обучения.",
 
     video: "https://kinescope.io/pJqFBBS7pRJvc5FKVpWbCP",
 
@@ -48,8 +48,7 @@
         heading: "Что разберём",
         level: 3,
         bullets: [
-          "Где получить официальный установщик Autodesk 3ds Max.",
-          "Как проверить системные требования перед установкой.",
+          "Где получить установщик Autodesk 3ds Max.",
           "Как установить программу и выполнить активацию с действующей лицензией.",
           "Как запустить 3ds Max и проверить корректность работы."
         ]
@@ -58,7 +57,7 @@
         heading: "На что обратить внимание",
         level: 3,
         paragraphs: [
-          "Скачивайте установочные файлы из официальных источников Autodesk. Перед установкой проверьте свободное место на диске, совместимость операционной системы и выбранной версии программы."
+          "Скачивайте установочные файлы с Яндекс Диска по ссылке нижн. Перед установкой проверьте свободное место на диске."
         ]
       }
     ],
@@ -78,7 +77,7 @@
   type: "Видео",
   level: "Начальный",
   duration: "02:54",
-  description: "Установка Corona Renderer для 3ds Max, подключение рендер-движка и проверка первого рендера.",
+  description: "Установка Corona Renderer для 3ds Max и подключение рендер-движка.",
   image: "https://optim.tildacdn.com/tila3134-6237-4164-a364-323861616538/-/format/webp/096dbc95-8b63-44cf-8.png.webp",
   url: "/lesson_install_corona",
   published: true,
@@ -102,8 +101,7 @@
         heading: "Что разберём",
         level: 3,
         bullets: [
-          "Где скачать официальный установщик Corona Renderer.",
-          "Как проверить совместимость Corona и 3ds Max.",
+          "Где скачать установщик Corona Renderer.",
           "Как выполнить установку и активировать лицензию.",
           "Как выбрать Corona в качестве активного рендер-движка.",
           "Как запустить тестовый рендер и проверить работу."
@@ -136,7 +134,7 @@
       description: "Настройка привязок, точное позиционирование и работа с геометрией в 3ds Max.",
       image: "https://optim.tildacdn.com/tila6537-3766-4534-b762-643934313333/-/format/webp/9307d548-1de2-4e8a-b.png.webp",
       url: "/lesson_snap",
-      published: true,
+      published: false,
 
       content: {
         categoryLabel: "3DS MAX / МОДЕЛИРОВАНИЕ / ВИДЕОУРОК",
@@ -387,7 +385,7 @@
       description: "Поиск потерянных текстур, восстановление путей и исправление ошибок материалов.",
       image: "https://optim.tildacdn.com/tila6333-6566-4333-a239-663939636566/-/format/webp/d52a8497-f0aa-4df3-b.png.webp",
       url: "/lesson_find_textures",
-      published: true,
+      published: false,
 
       content: {
         categoryLabel: "3DS MAX / МАТЕРИАЛЫ / ВИДЕОУРОК",
@@ -442,7 +440,7 @@
       description: "Установка плагина, генерация напольных покрытий и настройка раскладки досок.",
       image: "https://optim.tildacdn.com/tila6335-6533-4566-a664-626262393335/-/format/webp/0c485809-7325-480b-a.png.webp",
       url: "/lesson_floorgenerator",
-      published: true,
+      published: false,
 
       content: {
         categoryLabel: "3DS MAX / МОДЕЛИРОВАНИЕ / СТАТЬЯ",
