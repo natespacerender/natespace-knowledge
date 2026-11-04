@@ -65,7 +65,8 @@
     resources: [
       {
     title: "Скачать Autodesk 3ds Max",
-    url: "https://disk.yandex.ru/d/5-kf0IUFf8SdHw"
+    url: "https://disk.yandex.ru/d/5-kf0IUFf8SdHw",
+    kind: "YandexDisk"
   }
     ]
   }
@@ -119,7 +120,8 @@
     resources: [
       {
     title: "Скачать Corona Renderer",
-    url: "https://disk.yandex.ru/d/xsUF1nwrkbKMEQ"
+    url: "https://disk.yandex.ru/d/xsUF1nwrkbKMEQ",
+    kind: "YandexDisk"
   }
     ]
   }
@@ -254,16 +256,19 @@
 
         resources: [
         {
-    title: "Файл для установки горячих клавиш .hsx",
-    url: "https://disk.yandex.ru/d/tberDYPPveAbYQ"
+    title: "Файл для установки горячих клавиш",
+    url: "https://disk.yandex.ru/d/tberDYPPveAbYQ",
+    kind: ".hsx"
   },
         {
-    title: "Карта горячих клавиш .jpg",
-    url: "https://disk.yandex.ru/i/FKqJYI9T3Cs_UQ"
+    title: "Карта горячих клавиш",
+    url: "https://disk.yandex.ru/i/FKqJYI9T3Cs_UQ",
+    kind: ".jpg"
   },
         {
-    title: "Полезные сочетания горячих клавиш .doc",
-    url: "https://disk.yandex.ru/i/k0JbYYVVY2do_Q"
+    title: "Полезные сочетания горячих клавиш",
+    url: "https://disk.yandex.ru/i/k0JbYYVVY2do_Q",
+    kind: ".doc"
         }
         ]
       }
