@@ -27,7 +27,7 @@
   description: "Пошаговая установка Autodesk 3ds Max, первоначальная настройка программы и подготовка к работе.",
   image: "",
   url: "/lesson_install_3dsmax",
-  published: false,
+  published: true,
 
   content: {
     categoryLabel: "3DS MAX / УСТАНОВКА / ВИДЕОУРОК",
@@ -76,7 +76,7 @@
   description: "Установка Corona Renderer для 3ds Max, подключение рендер-движка и проверка первого рендера.",
   image: "",
   url: "/lesson_install_corona",
-  published: false,
+  published: true,
 
   content: {
     categoryLabel: "3DS MAX / УСТАНОВКА / ВИДЕОУРОК",
