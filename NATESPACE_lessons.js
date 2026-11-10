@@ -25,7 +25,7 @@
   level: "Начальный",
   duration: "02:40",
   description: "Пошаговая установка Autodesk 3ds Max, первоначальная настройка программы и подготовка к работе.",
-  image: "https://optim.tildacdn.com/tila3036-3230-4466-a262-333134343764/-/format/webp/43bc0be5-76a1-41c8-8.jpg.webp",
+  image: "https://optim.tildacdn.com/tila6331-3563-4739-b531-626137343165/-/format/webp/install_3d_max.webp",
   url: "/lesson_install_3dsmax",
   published: true,
 
@@ -79,7 +79,7 @@
   level: "Начальный",
   duration: "02:54",
   description: "Установка Corona Renderer для 3ds Max и подключение рендер-движка.",
-  image: "https://optim.tildacdn.com/tila3134-6237-4164-a364-323861616538/-/format/webp/096dbc95-8b63-44cf-8.png.webp",
+  image: "https://optim.tildacdn.com/tila6462-3862-4964-b631-303232333138/-/format/webp/install_corona.webp",
   url: "/lesson_install_corona",
   published: true,
 
@@ -134,7 +134,7 @@
       level: "Начальный",
       duration: "08:40",
       description: "Настройка привязок, точное позиционирование и работа с геометрией в 3ds Max.",
-      image: "https://optim.tildacdn.com/tila6537-3766-4534-b762-643934313333/-/format/webp/9307d548-1de2-4e8a-b.png.webp",
+      image: "https://optim.tildacdn.com/tila6664-6466-4164-b939-646538386533/-/format/webp/snap.webp",
       url: "/lesson_snap",
       published: false,
 
@@ -181,7 +181,7 @@
       level: "Начальный",
       duration: "04:22",
       description: "Выбор комплектующих, системные требования и рекомендации по сборке ПК для работы в 3ds Max и Corona Renderer.",
-      image: "https://optim.tildacdn.com/tila3033-3465-4565-b533-326138616662/-/format/webp/82932eb9-1501-469c-9.png.webp",
+      image: "https://optim.tildacdn.com/tila6339-6534-4533-b435-333837303362/-/format/webp/How_need_comp.webp",
       url: "/lesson_computer",
       published: true,
 
@@ -228,7 +228,7 @@
       level: "Начальный",
       duration: "02:48",
       description: "Основные сочетания клавиш, быстрая навигация и ускорение работы в 3ds Max.",
-      image: "https://optim.tildacdn.com/tila3132-3137-4836-a132-383136666262/-/format/webp/1ac4d23c-37b5-4ccb-b.png.webp",
+      image: "https://optim.tildacdn.com/tila3339-6636-4539-b461-623264373865/-/format/webp/hotkey.webp",
       url: "/lesson_hotkey",
       published: true,
 
@@ -281,7 +281,7 @@
       level: "Начальный",
       duration: "10:30",
       description: "Создание стен по плану и настройка геометрии.",
-      image: "https://optim.tildacdn.com/tila3531-3930-4832-a537-356434633966/-/format/webp/a209d93d-b2c7-4259-8.png.webp",
+      image: "https://optim.tildacdn.com/tila3330-3933-4733-a537-613466386339/-/format/webp/walls.webp",
       url: "/lesson_walls",
       published: false,
 
@@ -336,7 +336,7 @@
       level: "Начальный",
       duration: "09:20",
       description: "Добавление готовых моделей в сцену, настройка масштаба и работа с объектами.",
-      image: "https://optim.tildacdn.com/tila3561-6138-4634-b033-666331653939/-/format/webp/4dad5d47-461f-4302-9.png.webp",
+      image: "https://optim.tildacdn.com/tila3237-3861-4461-b433-613035336264/-/format/webp/import_3d_models.webp",
       url: "/lesson_import_3d_models",
       published: false,
 
@@ -391,7 +391,7 @@
       level: "Начальный",
       duration: "14:10",
       description: "Поиск потерянных текстур, восстановление путей и исправление ошибок материалов.",
-      image: "https://optim.tildacdn.com/tila6333-6566-4333-a239-663939636566/-/format/webp/d52a8497-f0aa-4df3-b.png.webp",
+      image: "https://optim.tildacdn.com/tila3365-6361-4962-a534-306237633831/-/format/webp/find_texture.webp",
       url: "/lesson_find_textures",
       published: false,
 
@@ -446,7 +446,7 @@
       level: "Начальный",
       duration: "",
       description: "Установка плагина, генерация напольных покрытий и настройка раскладки досок.",
-      image: "https://optim.tildacdn.com/tila6335-6533-4566-a664-626262393335/-/format/webp/0c485809-7325-480b-a.png.webp",
+      image: "https://optim.tildacdn.com/tila3135-3237-4338-a535-363930306332/-/format/webp/floorgen.webp",
       url: "/lesson_floorgenerator",
       published: false,
 
